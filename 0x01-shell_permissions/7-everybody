@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 555 hello >> 7-everybody
-echo chmod 555 hello
+chmod 777 hello
